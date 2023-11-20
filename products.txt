@@ -1,0 +1,35 @@
+Cleaning/Shampoo/120TL/Stearyl Citrate, Panthenol, Maltodextrin
+Cleaning/Shower Gel/60TL/Sodium Benzoate, Citric Acid, Lactic Acid, Benzyl Salicylate
+Cleaning/Soap/125TL/Sodium Lauryl Sulfate, Fragrance Oil Blend, Sodium Chloride, Glycerin
+Dairy Products/Butter/255TL/Cream, Salt
+Dairy Products/Cheese/150TL/Milk, Salt, Enzymes
+Dairy Products/Yogurt/175TL/Milk, Yogurt Culture
+Drinks/Cola/45TL/Sugar, Carbonated Water, Flavoring
+Drinks/Juice/50TL/Fruit Extracts, Water, Sugar
+Drinks/Lemonade/60TL/Sugar, Water, Lemon Juice
+Drinks/Water/15TL/-
+Frozen Food/Frozen Potato/190TL/Potato
+Frozen Food/Ice Cream/75TL/Milk, Sugar, Flavorings
+Fruits/Apple/80TL/_
+Fruits/Banana/160TL/-
+Fruits/Mango/100TL/-
+Fruits/Orange/80TL/-
+Fruits/Pineapple/140TL/-
+Fruits/Strawberry/200TL/-
+Laundry/Fabric Softeners/130TL/Cationic Surfactants, Fragrances, Linalool, Potassium Sorbate
+Laundry/Laundry Detergent/125TL/Anionic Surfactants, Soap, Phosphonates, Enzymes
+Laundry/Stain Removers/210TL/Oxygenated Bleaching Agents, Non-ionic Surfactants, Zeolites, Odorants
+Meat/Beef/325TL/Beef Steak, Salt, Pepper
+Meat/Chicken/125TL/Chicken Breast, Salt, Spices
+Meat/Fish/250TL/Salmon Fillet, Lemon, Dill
+Meat/Lamb/285TL/Lamb Chops, Salt, Herbs
+Snacks/Cookies/35TL/Flour, Sugar, Butter, Chocolate Chips
+Snacks/Nuts/110TL/Almonds, Cashews, Peanuts
+Snacks/Pretzels/15TL/Wheat Flour, Salt
+Vegetables/Broccoli/130TL/-
+Vegetables/Carrot/20TL/-
+Vegetables/Cucumber/30TL/-
+Vegetables/Pepper/80TL/-
+Vegetables/Spinach/60TL/-
+Vegetables/Tomato/90TL/-
+Vegetables/Zucchini/55TL/-

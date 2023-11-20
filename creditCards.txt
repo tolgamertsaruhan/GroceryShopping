@@ -1,0 +1,4 @@
+Tolga,123,Ziraat Card/Tolga Mert Saruhan/1344 2672 8645 7468/10/2028/508
+Tolga,123,Denizbank Card/Tolga Mert Saruhan/6533 8940 2639 1163/10/2029/226
+customer,654321,Garanti Credit Card/Tolga Mert Saruhan/4177 4933 2681 5406/09/2029/512
+customer,654321,Akbank Credit Card/Tolga Mert Saruhan/8010 3829 7755 5917/10/2029/290
