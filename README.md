@@ -25,3 +25,7 @@ It is a Java-based shopping simulator application that provides a user-friendly 
 1. Log in as an authorized administrator.
 2. Manage the product catalog by adding or removing products.
 3. Monitor and update inventory levels.
+
+## Preview
+
+![GroceryShopping-project-gif](https://github.com/tolgamertsaruhan/GroceryShopping/blob/main/image-for-readme/Grocery-project-gif.gif)
